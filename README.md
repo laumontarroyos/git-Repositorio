@@ -1,5 +1,5 @@
 # Arquivo README para o Repositório GIT
 
-![./Gitimage.jpeg]( imagem do GIT)
+![GIT](./Gitimage.jpeg)
 
 Este repositório é utilizado para testes com o GIT.
